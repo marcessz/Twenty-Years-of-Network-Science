@@ -33,5 +33,5 @@ The following four figures show the word clouds of the keywords of the articles 
 ![wordcloud_05](./img/between_06_10_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
 ### Between 2010 and 2015
 ![wordcloud_05](./img/between_11_15_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
-### Between 2016 and 2019 (May)
+### Between 2016 and 2019
 ![wordcloud_05](./img/since16_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
