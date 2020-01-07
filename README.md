@@ -5,9 +5,9 @@ The aforementioned paper is an extension of a [prior work](https://github.com/ma
 
 ## How to Cite
 ```
-@book{nagy2020twenty,
+@book{molontay2020twenty,
   title={Twenty Years of Network Science: A Bibliographic and Co-authorship Network Analysis},
-  author={Nagy, Marcell and Molontay, Roland},
+  author={Molontay, Roland and Nagy, Marcell},
   year={2020},
   publisher={Springer}
   }
