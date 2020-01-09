@@ -25,6 +25,8 @@ The edgelist of the constructed network can be found in [this folder](./network-
 
 ## Network
 The graphistry visualization of the largest connected component of the co-authorship network.
+
+
 ![co_authorship_network](./img/graphistry_largest_comp.png)
 
 
@@ -34,6 +36,7 @@ Two keywords are connected if they co-occur in at least one article. The weight 
 
 ### Graphistry 
 The interactive graphistry visualization of the network can be found __[here](https://labs.graphistry.com/graph/graph.html?dataset=PyGraphistry%2FQ6Z1AND1TS&type=vgraph&viztoken=1fa4a572a30ddf10048dcef808c41d93ad15e677&usertag=04ce45d1-pygraphistry-0.9.64&info=true&workbook=4987c538fd6e219d)__.
+
 
 [<img src="./img/graphistry_keyword.png">](https://labs.graphistry.com/graph/graph.html?dataset=PyGraphistry%2FQ6Z1AND1TS&type=vgraph&viztoken=1fa4a572a30ddf10048dcef808c41d93ad15e677&usertag=04ce45d1-pygraphistry-0.9.64&info=true&workbook=4987c538fd6e219d)
 
