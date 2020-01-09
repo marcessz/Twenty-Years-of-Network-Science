@@ -22,7 +22,9 @@ The edgelist of the constructed network can be found in [this folder](./network-
 
 
 ## Keyword co-occurence network
-Two keywords are connected if they co-occur in at least one article. The weight of the edges are the frequency of the co-occurene of the endpoint keywords. The visualization of the network can be found [here](https://labs.graphistry.com/graph/graph.html?dataset=PyGraphistry%2FQ6Z1AND1TS&type=vgraph&viztoken=1fa4a572a30ddf10048dcef808c41d93ad15e677&usertag=04ce45d1-pygraphistry-0.9.64&info=true&workbook=4987c538fd6e219d)
+Two keywords are connected if they co-occur in at least one article. The weight of the edges are the frequency of the co-occurene of the endpoint keywords. The interactive graphistry visualization of the network can be found [here](https://labs.graphistry.com/graph/graph.html?dataset=PyGraphistry%2FQ6Z1AND1TS&type=vgraph&viztoken=1fa4a572a30ddf10048dcef808c41d93ad15e677&usertag=04ce45d1-pygraphistry-0.9.64&info=true&workbook=4987c538fd6e219d)
+
+![keyword_network_density](./img/keyword_network.png)
 
 ## Word clouds of the keywords
 We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2019 (May). 
