@@ -22,7 +22,7 @@ The edgelist of the constructed network can be found in [this folder](./network-
 
 ## Network
 The graphistry visualization of the co-authorship network.
-![co_authorship_network](./img/fullgraph_graphistry)
+![co_authorship_network](./img/fullgraph_graphistry.png)
 
 
 
