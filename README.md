@@ -20,6 +20,11 @@ The data were collected from the Web of Science core collection
 
 The edgelist of the constructed network can be found in [this folder](./network-edge-list)
 
+## Network
+The graphistry visualization of the co-authorship network.
+![co_authorship_network](./img/fullgraph_graphistry)
+
+
 
 ## Keyword co-occurence network
 Two keywords are connected if they co-occur in at least one article. The weight of the edges are the frequency of the co-occurene of the endpoint keywords. 
