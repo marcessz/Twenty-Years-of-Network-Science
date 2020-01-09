@@ -21,8 +21,8 @@ The data were collected from the Web of Science core collection
 The edgelist of the constructed network can be found in [this folder](./network-edge-list)
 
 ## Network
-The graphistry visualization of the co-authorship network.
-![co_authorship_network](./img/fullgraph_graphistry.png)
+The graphistry visualization of the largest connected component of the co-authorship network.
+![co_authorship_network](./img/graphistry_largest_comp.png)
 
 
 
