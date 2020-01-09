@@ -14,14 +14,14 @@ The aforementioned paper is an extension of a [prior work](https://github.com/ma
 ```
 
 ## Source
-The data were collected from the Web of Science core collection
-
-## Data
-
-The edgelist of the constructed network can be found in [this folder](./network-edge-list). We downloaded information about the articles that cited at least one of the following papers: 
+The data were collected from the Web of Science core collection. We downloaded information about the articles that cited at least one of the following papers: 
 * Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. Science, 286(5439), 509-512.
 * Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-world’networks. Nature, 393(6684), 440.
 * Girvan, M., & Newman, M. E. (2002). Community structure in social and biological networks. Proceedings of the national academy of sciences, 99(12), 7821-7826.
+
+## Data
+
+The edgelist of the constructed network can be found in [this folder](./network-edge-list). 
 
 ## Network
 The graphistry visualization of the largest connected component of the co-authorship network.
