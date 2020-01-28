@@ -8,8 +8,8 @@ The aforementioned paper is an extension of a [prior work](https://github.com/ma
 @article{molontay2020twenty,
   title={Twenty Years of Network Science: A Bibliographic and Co-authorship Network Analysis},
   author={Molontay, Roland and Nagy, Marcell},
-  year={2020},
-  journal={arXiv preprint arXiv:2001.09006}
+  journal={arXiv preprint arXiv:2001.09006},
+  year={2020}
   }
 ```
 
