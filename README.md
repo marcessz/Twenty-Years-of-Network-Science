@@ -6,7 +6,7 @@ The aforementioned paper is an extension of a [prior work](https://github.com/ma
 ## How to Cite
 ```
 @article{molontay2020twenty,
-  title={Twenty Years of Network Science: A Bibliographic and Co-authorship Network Analysis},
+  title={Twenty Years of Network Science: A Bibliographic and Co-Authorship Network Analysis},
   author={Molontay, Roland and Nagy, Marcell},
   journal={arXiv preprint arXiv:2001.09006},
   year={2020}
