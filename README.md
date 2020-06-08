@@ -52,7 +52,7 @@ The following figure shows the co-occurence network of the more frequent keyword
 
 
 ## Word clouds of the keywords
-We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2019 (May). 
+We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2020 (January). 
 The following four figures show the word clouds of the keywords of the articles written in the four periods respectively.
 ### Between 1998 and 2005
 ![wordcloud_05](./img/until05_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
