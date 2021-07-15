@@ -1,5 +1,5 @@
 # Twenty-Years-of-Network-Science
-Supplementary material for the paper *Twenty Years of Network Science: A Bibliographic and Co-Authorship Network Analysis* - R. Molontay, M. Nagy (2021)
+Supplementary material for the paper [*Twenty Years of Network Science: A Bibliographic and Co-Authorship Network Analysis* - R. Molontay, M. Nagy (2021)](https://link.springer.com/chapter/10.1007/978-3-030-67044-3_1). 
 
 The aforementioned paper is an extension of a [prior work](https://github.com/marcessz/Two-Decades-of-Network-Science) of the same authors, titled *Two Decades of Network Science - as seen through the co-authorship network of network scientists*.
 
