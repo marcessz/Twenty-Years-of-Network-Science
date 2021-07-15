@@ -1,15 +1,17 @@
 # Twenty-Years-of-Network-Science
-Supplementary material for the paper *Twenty Years of Network Science: A Bibliographic and Co-Authorship Network Analysis* - R. Molontay, M. Nagy (2020)
+Supplementary material for the paper *Twenty Years of Network Science: A Bibliographic and Co-Authorship Network Analysis* - R. Molontay, M. Nagy (2021)
 
 The aforementioned paper is an extension of a [prior work](https://github.com/marcessz/Two-Decades-of-Network-Science) of the same authors, titled *Two Decades of Network Science - as seen through the co-authorship network of network scientists*.
 
 ## How to Cite
 ```
-@article{molontay2020twenty,
-  title={Twenty Years of Network Science: A Bibliographic and Co-Authorship Network Analysis},
+@incollection{molontay2021twenty,
+  title={Twenty {Y}ears of {N}etwork {S}cience: {A} {B}ibliographic and {C}o-{A}uthorship {N}etwork {A}nalysis},
   author={Molontay, Roland and Nagy, Marcell},
-  journal={arXiv preprint arXiv:2001.09006},
-  year={2020}
+  booktitle={Big Data and Social Media Analytics},
+  pages={1--24},
+  year={2021},
+  publisher={Springer}
   }
 ```
 
